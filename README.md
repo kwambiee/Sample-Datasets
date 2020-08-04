@@ -1,2 +1,2 @@
 # Sample-Datasets
-Datasets for datascience
+These are datasets that would help with your personal projects for datascience.
